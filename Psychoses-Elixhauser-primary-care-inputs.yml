@@ -1,0 +1,138 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-depress---primary.py
+inputModule3:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-affect---primary.py
+inputModule4:
+  class: File
+  path: python/nonorganic-psychoses-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/hysterical-psychoses-elixhauser-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-schizophrenifrm---primary.py
+inputModule7:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-psychosis---primary.py
+inputModule8:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-remiss---primary.py
+inputModule9:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-specified---primary.py
+inputModule10:
+  class: File
+  path: python/antipsychotic-psychoses-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/hypomanic-psychoses-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-lithium---primary.py
+inputModule13:
+  class: File
+  path: python/current-psychoses-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/brief-psychoses-elixhauser-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/psychoses-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/reactive-psychoses-elixhauser-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-schizotypal---primary.py
+inputModule18:
+  class: File
+  path: python/delusional-psychoses-elixhauser-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/paranoid-psychoses-elixhauser-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-presenile---primary.py
+inputModule21:
+  class: File
+  path: python/disintegrative-psychoses-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/moderate-psychoses-elixhauser-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/transient-psychoses-elixhauser-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/personal-psychoses-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/alcoholic-psychoses-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/residual-psychoses-elixhauser-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/other-psychoses-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/acute-psychoses-elixhauser-primary-care---primary.py
+inputModule29:
+  class: File
+  path: python/psychogenic-psychoses-elixhauser-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/bipolar-psychoses-elixhauser-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-state---primary.py
+inputModule32:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-child---primary.py
+inputModule33:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-korsakov---primary.py
+inputModule34:
+  class: File
+  path: python/catatonic-psychoses-elixhauser-primary-care---primary.py
+inputModule35:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-mania---primary.py
+inputModule36:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-medication---primary.py
+inputModule37:
+  class: File
+  path: python/cycloid-psychoses-elixhauser-primary-care---primary.py
+inputModule38:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-persecution---primary.py
+inputModule39:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-resolved---primary.py
+inputModule40:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-history---primary.py
+inputModule41:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-disordr---primary.py
+inputModule42:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-reaction---primary.py
+inputModule43:
+  class: File
+  path: python/subchronic-psychoses-elixhauser-primary-care---primary.py
+inputModule44:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-insight---primary.py
+inputModule45:
+  class: File
+  path: python/psychoses-elixhauser-primary-care-schizophrenialike---primary.py
+inputModule46:
+  class: File
+  path: python/output-cases.py
